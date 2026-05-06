@@ -55,12 +55,7 @@ C-elegans-mtDNA-analysis/
 └── .Rproj
 
 ---
-## 👨‍🎓 Author
-
-**AGBO K. Doris**  
-Agronomy Student | Bioinformatics & Data Analysis Enthusiast  
-
-**Interests**: Genomic Data Analysis, Biostatistics, Suistainable Agriculture, Plant Breeding
-
-- [LinkedIn](https://linkedin.com/in/ton-profil) 
-- [Email](mailto:ton.email@example.com)
+👨‍🎓 Author
+AGBO K. Doris
+Agronomy Student | Bioinformatics & Data Analysis Enthusiast
+Interests: Genomic Data Analysis, Biostatistics, Sustainable Agriculture, Plant Breeding
