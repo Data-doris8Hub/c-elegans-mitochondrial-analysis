@@ -47,11 +47,13 @@ The main objective was to test whether the nucleotide frequencies follow a **uni
 ## 📁 Project Structure
 
 ```bash
-C-elegans-mtDNA-analysis/
+c-elegans-mtdna-analysis/
 ├── C_elegans_mtDNA_analysis.qmd
+├── C_elegans_mtDNA_analysis.html
 ├── README.md
 ├── figures/
-└── .Rproj
+├── .Rproj
+└── LICENSE
 
 ---
 👨‍🎓 Author
