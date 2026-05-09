@@ -51,7 +51,6 @@ C-elegans-mtDNA-analysis/
 ├── C_elegans_mtDNA_analysis.qmd
 ├── README.md
 ├── figures/
-├── scripts/
 └── .Rproj
 
 ---
